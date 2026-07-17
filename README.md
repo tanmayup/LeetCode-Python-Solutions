@@ -26,6 +26,7 @@
 | [0200-number-of-islands](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
@@ -40,6 +41,7 @@
 | [0169-majority-element](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0069-sqrtx](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -109,6 +112,7 @@
 | [0074-search-a-2d-matrix](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -119,6 +123,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -219,6 +224,7 @@
 | [0136-single-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
