@@ -9,12 +9,14 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0049-group-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -37,6 +39,7 @@
 | [0008-string-to-integer-atoi](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -56,4 +59,8 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0035-search-insert-position) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
