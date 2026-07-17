@@ -40,6 +40,7 @@
 | [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1046-last-stone-weight](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1672-richest-customer-wealth](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +206,7 @@
 | [0054-spiral-matrix](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0200-number-of-islands) |
+| [1672-richest-customer-wealth](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
