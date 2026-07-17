@@ -40,7 +40,6 @@
 | [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1046-last-stone-weight](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
-| [1480-running-sum-of-1d-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +85,7 @@
 | [0509-fibonacci-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 ## Recursion
 |  |
 | ------- |
@@ -109,6 +109,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0844-backspace-string-compare](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1143-longest-common-subsequence) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -364,8 +365,4 @@
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
-## Prefix Sum
-|  |
-| ------- |
-| [1480-running-sum-of-1d-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
