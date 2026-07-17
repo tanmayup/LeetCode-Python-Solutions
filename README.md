@@ -127,6 +127,7 @@
 | [0412-fizz-buzz](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0844-backspace-string-compare](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0844-backspace-string-compare) |
+| [1108-defanging-an-ip-address](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1768-merge-strings-alternately](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1768-merge-strings-alternately) |
