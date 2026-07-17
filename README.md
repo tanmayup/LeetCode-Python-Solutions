@@ -61,11 +61,13 @@
 | [0070-climbing-stairs](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0326-power-of-three) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
