@@ -39,6 +39,7 @@
 | [0875-koko-eating-bananas](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1046-last-stone-weight](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1046-last-stone-weight) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0496-next-greater-element-i) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Linked List
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -354,4 +357,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0901-online-stock-span) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
