@@ -10,6 +10,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,12 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0049-group-anagrams) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
