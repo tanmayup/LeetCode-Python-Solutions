@@ -202,6 +202,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -218,6 +219,7 @@
 | [0210-course-schedule-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -232,6 +234,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -250,6 +253,7 @@
 | [0210-course-schedule-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Greedy
 |  |
 | ------- |
