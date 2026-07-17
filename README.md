@@ -134,6 +134,7 @@
 | [1759-count-number-of-homogenous-substrings](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1768-merge-strings-alternately](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Sliding Window
 |  |
 | ------- |
@@ -164,6 +165,7 @@
 | [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1768-merge-strings-alternately](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Stack
 |  |
 | ------- |
@@ -253,6 +255,7 @@
 | [0412-fizz-buzz](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0844-backspace-string-compare) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Memoization
 |  |
 | ------- |
