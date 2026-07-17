@@ -38,6 +38,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +72,7 @@
 | [0049-group-anagrams](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -115,6 +117,7 @@
 | [0169-majority-element](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
