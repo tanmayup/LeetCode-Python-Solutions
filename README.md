@@ -37,6 +37,7 @@
 | [0704-binary-search](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Stack
 |  |
 | ------- |
@@ -164,6 +166,7 @@
 | [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
