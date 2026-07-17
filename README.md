@@ -21,6 +21,7 @@
 | [0136-single-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0198-house-robber) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@
 | [0141-linked-list-cycle](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0169-majority-element) |
 ## Linked List
 |  |
 | ------- |
@@ -104,10 +106,12 @@
 | [0049-group-anagrams](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
@@ -184,4 +188,8 @@
 | ------- |
 | [0136-single-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0191-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
