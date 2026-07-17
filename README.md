@@ -230,6 +230,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0547-number-of-provinces](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0743-network-delay-time](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -268,6 +269,7 @@
 | [0322-coin-change](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0743-network-delay-time](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0743-network-delay-time) |
 ## Greedy
 |  |
 | ------- |
@@ -292,6 +294,7 @@
 | [0207-course-schedule](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
 | ------- |
@@ -306,6 +309,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0743-network-delay-time](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0743-network-delay-time) |
 ## Quickselect
 |  |
 | ------- |
@@ -323,4 +327,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0503-next-greater-element-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
