@@ -55,10 +55,12 @@
 | [0013-roman-to-integer](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -210,6 +212,7 @@
 | ------- |
 | [0136-single-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0231-power-of-two) |
 ## Counting
 |  |
 | ------- |
