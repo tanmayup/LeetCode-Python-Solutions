@@ -93,6 +93,7 @@
 | [0231-power-of-two](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -122,6 +123,7 @@
 | [0242-valid-anagram](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0844-backspace-string-compare](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -241,6 +243,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0844-backspace-string-compare) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Memoization
