@@ -28,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0322-coin-change) |
+| [0349-intersection-of-two-arrays](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0217-contains-duplicate](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0349-intersection-of-two-arrays](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -120,6 +123,7 @@
 | [0162-find-peak-element](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -131,6 +135,7 @@
 | [0217-contains-duplicate](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
