@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,4 +48,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
