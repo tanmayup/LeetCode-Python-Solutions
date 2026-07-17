@@ -132,6 +132,7 @@
 | [0496-next-greater-element-i](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -329,8 +330,17 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0901-online-stock-span) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0743-network-delay-time) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
