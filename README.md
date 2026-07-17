@@ -147,6 +147,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0210-course-schedule-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -173,10 +175,12 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
