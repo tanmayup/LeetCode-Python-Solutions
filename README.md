@@ -17,6 +17,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0053-maximum-subarray](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -143,4 +145,8 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
