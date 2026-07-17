@@ -31,6 +31,7 @@
 | [0009-palindrome-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
@@ -83,4 +85,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0054-spiral-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
