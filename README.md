@@ -77,6 +77,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search
 |  |
 | ------- |
@@ -125,6 +126,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0101-symmetric-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -143,6 +146,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
