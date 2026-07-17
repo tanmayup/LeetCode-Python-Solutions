@@ -111,6 +111,7 @@
 | [0844-backspace-string-compare](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1768-merge-strings-alternately](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [0844-backspace-string-compare](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
+| [1768-merge-strings-alternately](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
