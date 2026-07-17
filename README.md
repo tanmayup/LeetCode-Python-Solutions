@@ -107,6 +107,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0844-backspace-string-compare](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0844-backspace-string-compare) |
+| [1143-longest-common-subsequence](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [0509-fibonacci-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1137-n-th-tribonacci-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Matrix
 |  |
 | ------- |
