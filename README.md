@@ -59,6 +59,7 @@
 | [0020-valid-parentheses](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [0125-valid-palindrome](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
 |  |
