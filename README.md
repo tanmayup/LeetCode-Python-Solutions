@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,4 +55,5 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
