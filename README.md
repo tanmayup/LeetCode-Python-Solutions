@@ -36,6 +36,7 @@
 | [0503-next-greater-element-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0875-koko-eating-bananas](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
 | ------- |
