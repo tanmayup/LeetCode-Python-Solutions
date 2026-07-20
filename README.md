@@ -46,6 +46,7 @@
 | [1046-last-stone-weight](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1672-richest-customer-wealth](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1672-richest-customer-wealth) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Hash Table
@@ -134,6 +135,7 @@
 | [1759-count-number-of-homogenous-substrings](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1768-merge-strings-alternately](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Sliding Window
 |  |
@@ -254,6 +256,7 @@
 | [0054-spiral-matrix](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0844-backspace-string-compare) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Memoization
