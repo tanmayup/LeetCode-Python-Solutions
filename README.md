@@ -43,6 +43,7 @@
 | [0875-koko-eating-bananas](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1046-last-stone-weight) |
 | [1266-minimum-time-visiting-all-points](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -167,6 +168,7 @@
 | [0844-backspace-string-compare](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -215,6 +217,7 @@
 | [0435-non-overlapping-intervals](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0912-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Divide and Conquer
