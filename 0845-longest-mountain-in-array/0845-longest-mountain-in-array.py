@@ -1,8 +1,8 @@
 class Solution:
     def longestMountain(self, arr: List[int]) -> int:
         count = 0
-        for idx, val in enumerate(arr):
-            if idx > 0 and idx < len(arr)-1 and val > arr[idx-1] and val > arr[idx+1]:
+        for idx in range(1, len(arr)-1):
+            if arr[idx] > arr[idx-1] and arr[idx] > arr[idx+1]:
                 i, j = idx, idx
                 while i > 0 and arr[i] > arr[i-1]:
                     i -= 1
