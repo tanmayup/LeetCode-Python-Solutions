@@ -41,6 +41,7 @@
 | [0496-next-greater-element-i](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0704-binary-search) |
+| [0845-longest-mountain-in-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -171,6 +172,7 @@
 | [0344-reverse-string](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0844-backspace-string-compare) |
+| [0845-longest-mountain-in-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0876-middle-of-the-linked-list](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -251,6 +253,7 @@
 | [0435-non-overlapping-intervals](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0845-longest-mountain-in-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [1137-n-th-tribonacci-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1143-longest-common-subsequence) |
 ## Matrix
@@ -449,4 +452,8 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
