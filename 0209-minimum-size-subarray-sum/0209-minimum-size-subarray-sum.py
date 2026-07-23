@@ -2,8 +2,6 @@ class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
         if sum(nums) < target:
             return 0
-        elif sum(nums) == target:
-            return len(nums)
 
         count = float("inf")
         i, j = 0, 0
