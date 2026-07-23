@@ -1,7 +1,7 @@
 class Solution:
     def singleNumber(self, nums: List[int]) -> int:
-        result = 0
-        for num in nums:
-            result = result ^ num
+        ans = 0
+        for el in nums:
+            ans ^= el
 
-        return result
+        return ans
