@@ -1,8 +1,5 @@
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
-        if target in nums:
-            return 1
-
         if sum(nums) < target:
             return 0
         elif sum(nums) == target:
