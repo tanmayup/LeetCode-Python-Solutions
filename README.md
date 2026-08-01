@@ -193,6 +193,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0496-next-greater-element-i) |
@@ -434,6 +435,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0901-online-stock-span) |
 ## Data Stream
