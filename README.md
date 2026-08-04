@@ -22,6 +22,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0169-majority-element) |
@@ -103,6 +104,7 @@
 | [0050-powx-n](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0326-power-of-three) |
@@ -193,6 +195,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0234-palindrome-linked-list) |
