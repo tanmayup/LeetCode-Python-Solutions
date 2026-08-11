@@ -34,6 +34,7 @@
 | [0217-contains-duplicate](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -178,6 +179,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0844-backspace-string-compare) |
