@@ -48,6 +48,7 @@
 | [0845-longest-mountain-in-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0845-longest-mountain-in-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0977-squares-of-a-sorted-array) |
