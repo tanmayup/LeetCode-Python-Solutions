@@ -316,6 +316,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -340,6 +341,7 @@
 | [0210-course-schedule-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -363,6 +365,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -507,4 +510,12 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
