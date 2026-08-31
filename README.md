@@ -19,6 +19,7 @@
 | [0075-sort-colors](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0136-single-number) |
@@ -250,6 +251,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -308,6 +310,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0112-path-sum) |
@@ -357,6 +360,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0112-path-sum) |
@@ -375,6 +379,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
