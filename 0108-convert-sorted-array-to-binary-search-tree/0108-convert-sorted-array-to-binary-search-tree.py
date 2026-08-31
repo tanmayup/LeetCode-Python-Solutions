@@ -13,7 +13,6 @@ class Solution:
 
         root = TreeNode(nums[mid])
         root.left = self.sortedArrayToBST(nums[:mid])
-        if mid != n-1:
-            root.right = self.sortedArrayToBST(nums[(mid+1):])
+        root.right = self.sortedArrayToBST(nums[(mid+1):])
 
         return root
