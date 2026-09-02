@@ -33,11 +33,10 @@ class Solution:
         # if not root:
         #     return None
 
-        if p.val <= root.val <= q.val or q.val <= root.val <= p.val:
-            return root
-
-        elif p.val < root.val and q.val < root.val:
+        if p.val < root.val and q.val < root.val:
             return self.lowestCommonAncestor(root.left, p, q)
 
-        else:
+        elif p.val > root.val and q.val > root.val:
             return self.lowestCommonAncestor(root.right, p, q)
+
+        return root
