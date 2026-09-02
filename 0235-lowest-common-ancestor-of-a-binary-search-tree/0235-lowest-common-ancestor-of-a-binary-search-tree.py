@@ -40,3 +40,17 @@ class Solution:
             return self.lowestCommonAncestor(root.right, p, q)
 
         return root
+
+# =================================
+
+        small, large = min(p.val, q.val), max(p.val, q.val)
+
+        while root:
+            if root.val > large:
+                root = root.right
+
+            elif root.val < small:
+                root = root.left
+
+            else:
+                return root
