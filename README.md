@@ -256,6 +256,7 @@
 | [0191-number-of-1-bits](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -327,6 +328,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -353,6 +355,7 @@
 | [0547-number-of-provinces](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0743-network-delay-time](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0743-network-delay-time) |
+| [1382-balance-a-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -381,6 +384,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -392,6 +396,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -418,6 +423,7 @@
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [1382-balance-a-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
