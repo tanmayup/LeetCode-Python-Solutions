@@ -52,6 +52,7 @@
 | [0896-monotonic-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1200-minimum-absolute-difference) |
@@ -114,6 +115,7 @@
 | [0326-power-of-three](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -243,6 +245,7 @@
 | [0435-non-overlapping-intervals](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -256,6 +259,7 @@
 | [0191-number-of-1-bits](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
@@ -461,11 +465,13 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0743-network-delay-time](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Interactive
 |  |
 | ------- |
@@ -517,6 +523,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Enumeration
 |  |
@@ -540,4 +547,8 @@
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
