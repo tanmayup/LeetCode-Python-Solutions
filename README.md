@@ -38,6 +38,7 @@
 | [0283-move-zeroes](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0435-non-overlapping-intervals) |
@@ -77,6 +78,7 @@
 | [0219-contains-duplicate-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -241,6 +243,7 @@
 | [0217-contains-duplicate](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0905-sort-array-by-parity](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0905-sort-array-by-parity) |
@@ -258,6 +261,7 @@
 | [0169-majority-element](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1382-balance-a-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -440,6 +444,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Graph Theory
@@ -463,6 +468,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -471,6 +477,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Interactive
 |  |
@@ -515,6 +522,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
