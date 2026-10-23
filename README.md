@@ -29,6 +29,7 @@
 | [0169-majority-element](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -113,6 +114,7 @@
 | [0069-sqrtx](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0326-power-of-three) |
@@ -538,6 +540,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0204-count-primes) |
 | [0845-longest-mountain-in-array](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0845-longest-mountain-in-array) |
 ## Prefix Sum
 |  |
@@ -561,4 +564,20 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0973-k-closest-points-to-origin) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
