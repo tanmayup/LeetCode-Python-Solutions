@@ -117,6 +117,7 @@
 | [0268-missing-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1137-n-th-tribonacci-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1137-n-th-tribonacci-number) |
