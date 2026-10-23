@@ -8,12 +8,10 @@ class Solution:
 
         for i in range(2, int(n ** 0.5)+1):
             if l[i]:
-                mul = i
-                while i * mul < n:
-                    if l[i*mul]:
+                for j in range(i*i, n, i):
+                    if l[j]:
                         count -= 1
-                    l[i*mul] = False
-                    mul += 1
+                        l[j] = False
 
 
         return count
