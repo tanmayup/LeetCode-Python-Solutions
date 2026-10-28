@@ -127,6 +127,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1759-count-number-of-homogenous-substrings](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1759-count-number-of-homogenous-substrings) |
+| [1903-largest-odd-number-in-string](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Recursion
 |  |
@@ -162,6 +163,7 @@
 | [1759-count-number-of-homogenous-substrings](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1768-merge-strings-alternately](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1768-merge-strings-alternately) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1903-largest-odd-number-in-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/3775-reverse-words-with-same-vowel-count) |
 ## Sliding Window
@@ -436,6 +438,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [1382-balance-a-binary-search-tree](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1903-largest-odd-number-in-string](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
