@@ -1,18 +1,21 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        # ls, lt = list(s), list(t)
+        d = {}
 
-        # for el in ls:
-        #     if el in lt:
-        #         lt.remove(el)
+        for el in s:
+            if el not in d:
+                d[el] = 1
+            else:
+                d[el] += 1
 
-        #     else:
-        #         return False
+        for el in t:
+            if el not in d or d[el] == 0:
+                return False
+            else:
+                d[el] -= 1
 
-        # return len(lt) == 0
+        for el in d:
+            if d[el] != 0:
+                return False
 
-        
-        sl, st = list(s), list(t)
-        sl.sort()
-        st.sort()
-        return sl == st
+        return True
