@@ -161,6 +161,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0412-fizz-buzz) |
 | [0516-longest-palindromic-subsequence](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0796-rotate-string](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -591,4 +592,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/tanmayup/LeetCode-Python-Solutions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
